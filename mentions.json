@@ -65,9 +65,6 @@
         },
         "key": "http:\/\/www.notontheguestlist.com\/GermanLove.mp3"
     }],
-    
-    
-    
     "tracks": {
         "http:\/\/localcut.wweek.com\/mp3\/happyfuckingholidays.mp3": [["starfucker", "happy fucking holidays"]],
         "http:\/\/www.notontheguestlist.com\/Hard_Smart_Beta.mp3": [["starfucker", "hard smart beta"]],
@@ -76,14 +73,10 @@
         "http:\/\/www.notontheguestlist.com\/GermanLove.mp3": [["starfucker", "german love"]],
         "http:\/\/localcut.wweek.com\/mp3\/germanlove.mp3": [["starfucker", "german love"]]
     },
-    
-    
-    
-    "widget": "http:\/\/localhost\/widget\/preview\/83cb2158322ebdef2d43c8110d50c15d",
-    
-    
-    
-    
+    "widget": {
+        "title": "*fucker",
+        "url": "http:\/\/localhost\/widget\/preview\/412b0e9bca030f9307a356fbf42f6dd6"
+    },
     "metadata": {
         "starfucker \/ happy fucking holidays": {
             "track": ["starfucker", "happy fucking holidays"],
