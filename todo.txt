@@ -1,0 +1,7 @@
+- focus on which track
+
+w263.9
+h165.0
+
+x20.0
+y81.0
